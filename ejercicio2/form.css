@@ -1,0 +1,53 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.my-form{
+    background-color: #dedede;
+    padding: 2rem;
+}
+.form-control{
+    margin-bottom: 1.5rem;
+}
+.form-control label{
+    display: block;
+    font-size: 1.6rem;
+}
+.form-control input{
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+}
+.btn{
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.my-table{
+    font-size: 1.6rem;
+    border-collapse: collapse;
+}
+.my-table th{
+    text-align: left;
+    border-bottom: 1px solid #gray;
+}
+.my-table .my-header{
+    background-color: #dedede;
+}
+.my-table td{
+    border:1px solid black;
+    width:15rem;
+    padding:3px;
+}
+.my-table tr{
+
+}
