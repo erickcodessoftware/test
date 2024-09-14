@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.status-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.btn-items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.img-container img {
+    width: 200px;
+    margin: 0 auto;
+}
