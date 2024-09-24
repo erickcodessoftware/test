@@ -4,7 +4,7 @@ const inputGender = document.getElementById("txtGender");
 const inputG1 = document.getElementById("txtGrade1");
 const inputG2 = document.getElementById("txtGrade2");
 const inputG3 = document.getElementById("txtGrade3");
-const registerBtn = document.getElementById("btnRegister");
+const registerBtn = document.getElementById("registerBtn");
 let students = [];
 
 let school ={
